@@ -62,7 +62,7 @@ public class Person {
     }
 
     /**
-     * GSt participant's spouse
+     * Set participant's spouse
      * */
     public void setSpouse(Person spouse) {
         this.spouse = spouse;
